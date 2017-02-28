@@ -1,7 +1,7 @@
 OpenCycle
 ==============================
 
-Family planning through mcaachine laeearning.
+Family planning through machine learning.
 
 Project Organization
 ------------
