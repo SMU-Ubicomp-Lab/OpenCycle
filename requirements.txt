@@ -32,7 +32,7 @@ prettytable==7
 prompt-toolkit==1.0.13
 ptyprocess==0.5.1
 Pygments==2.2.0
-pyparsing==2.1.10
+pyparsing==2.2.0
 python-dateutil==2.6.0
 pytz==2016.10
 pyzmq==16.0.2
