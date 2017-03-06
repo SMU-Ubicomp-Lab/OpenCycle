@@ -44,7 +44,7 @@ seaborn==0.7.1
 simplegeneric==0.8.1
 six==1.10.0
 SQLAlchemy==1.1.6
-sqlparse==0.2.2
+sqlparse==0.2.3
 statsmodels==0.8.0
 terminado==0.6
 testpath==0.3
