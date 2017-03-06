@@ -43,7 +43,7 @@ scipy==0.18.1
 seaborn==0.7.1
 simplegeneric==0.8.1
 six==1.10.0
-SQLAlchemy==1.1.4
+SQLAlchemy==1.1.6
 sqlparse==0.2.2
 statsmodels==0.8.0
 terminado==0.6
