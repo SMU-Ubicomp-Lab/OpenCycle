@@ -1,6 +1,6 @@
 appnope==0.1.0
 bleach==1.5.0
-certifi==2016.9.26
+certifi==2017.1.23
 cycler==0.10.0
 decorator==4.0.11
 entrypoints==0.2.2
