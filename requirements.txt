@@ -28,7 +28,7 @@ patsy==0.4.1
 pexpect==4.2.1
 pickleshare==0.7.4
 plotly==2.0.2
-prettytable==0.7.2
+prettytable==7
 prompt-toolkit==1.0.13
 ptyprocess==0.5.1
 Pygments==2.2.0
