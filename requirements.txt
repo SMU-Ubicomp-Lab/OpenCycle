@@ -1,5 +1,5 @@
 appnope==0.1.0
-bleach==1.5.0
+bleach==2.0.0
 certifi==2017.1.23
 cycler==0.10.0
 decorator==4.0.11
