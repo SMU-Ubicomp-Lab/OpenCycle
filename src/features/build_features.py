@@ -1,11 +1,11 @@
 import pandas as pd
 
 BY_ID = ['ID']
-BY_GROUP = ['ID', 'GROUP_ID']
-BY_CYCLE = ['ID', 'GROUP_ID', 'CYCLE_ID']
+BY_SEGMENT = ['ID', 'SEGMENT_ID']
+BY_CYCLE = ['ID', 'SEGMENT_ID', 'CYCLE_ID']
 
 
-def previous_value(x, df, grouping=BY_GROUP, window_size=1):
+def previous_value(x, df, grouping=BY_SEGMENT, window_size=1):
     """Determine mean of previous n measurements for a participant.
 
     Parameters
