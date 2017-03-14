@@ -1,0 +1,15 @@
+Problem Solved for the temperatures (maybe). 
+
+Dear Professor,
+
+I hereby write the remark made by the Department. Temperatures have been stored coded in the database (see the row corresponding to the TEMP1 item in the enclosed VARLONDON.pdf file that you should have received with the data files). To obtain the *real* BBT you have to use the following formulas:
+
+- Fahrenheit (TIPOTEMP==1): BBT = 90+(Temperatures in the database)/10 
+- Celsius (TIPOTEMP==2): BBT = 36+(Temperatures in the database)/10 
+
+After using this conversion formulas, we obtain a median of 36.6 for the Celsius temperatures and of 98.2 (corresponding to 36.7C) for the Fahrenheit temperatures. Further, observe that according to prof. Marshall, who supervised the collection of the LONDON data, some (small) differences between the two set of measures are expected since temperatures were collected with standard thermometers which, at least in the sixties, had a different resolution. 
+
+For any further doubts, don't hesite to contact us again.
+
+Best regards,
+Patrizia Piacentini
