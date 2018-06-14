@@ -1,0 +1,13 @@
+Dear prof. Larson,
+
+here is the comment to your remarks made by the Department.
+
+The paper describing the data set is the Miolo et al. (1993), where in the introduction they say: "Definition of a significant shift of temperature indicating ovulation was as follows: the first time in the cycle that three consecutive daily temperatures were recorded all of which were above the level of the immediately preceding six daily temperature recordings. This was· known as the 'three over six rule'.
+One exception to the rule was permitted namely the presence of one 'spike' temperature among the six at the lower level; a spike temperature was defined as a temperature which was 0.2 degrees Centigrade or more above both its immediate neighbouring temperatures”.
+We are certain that they used this rule to define ovulation day; however we also know that a supervisor checked every single chart and with autonomy detected the ovulation day by sometimes modifying the rule when some spike or other noise was present (as specified in the paper too), in order to have a better identification of the ovulation day.
+In any case if one want to use the precise 3 over 6 rule, must obtain it directly from the temperature data.
+
+We hope that this replay can be useful.
+Yours sincerely,
+
+Patrizia Piacentini
